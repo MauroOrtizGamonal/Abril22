@@ -1,0 +1,43 @@
+/* Estilo para las imágenes */
+img {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Estilo para los párrafos */
+  p {
+    text-align: center;
+    margin-top: 10px;
+    font-size: 16px;
+    color: #555; /* Ajusta el color del texto según tus preferencias */
+    line-height: 1.5; /* Ajusta el espaciado entre líneas */
+  }
+  
+  /* Estilo para los botones */
+  button {
+    display: block;
+    margin: 10px auto;
+    padding: 10px 20px;
+    font-size: 16px;
+    color: #fff;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  /* Estilo para el componente de información extendida */
+  app-informacion-extendida {
+    display: block;
+    margin: 20px auto;
+    max-width: 800px;
+  }
+  

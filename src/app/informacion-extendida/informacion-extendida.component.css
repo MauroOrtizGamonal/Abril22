@@ -1,0 +1,45 @@
+/* Estilo para el encabezado */
+h1 {
+    font-size: 2.5em;
+    color: #333;
+    text-align: center;
+    margin-top: 50px;
+  }
+  
+  /* Estilo para el párrafo */
+  p {
+    font-size: 1.2em;
+    color: #666;
+    text-align: justify;
+    margin: 20px;
+  }
+  
+  /* Estilo para el contenedor de contenido adicional */
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Estilo para las imágenes dentro del contenido adicional */
+  .container img {
+    display: block;
+    margin: 20px auto;
+    max-width: 100%;
+    border-radius: 5px;
+  }
+  
+  /* Estilo para los enlaces dentro del contenido adicional */
+  .container a {
+    color: #007bff;
+    text-decoration: none;
+    transition: color 0.3s ease;
+  }
+  
+  .container a:hover {
+    color: #0056b3;
+  }
+  
